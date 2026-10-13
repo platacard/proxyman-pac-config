@@ -1,0 +1,23 @@
+{
+  "proxy": [
+    "beta.platacard.mx",
+    "auth-beta.platacard.mx",
+    "mock-beta.platacard.mx",
+    "beta.plata.mx",
+    "beta.plata.co",
+    "beta.diftech.net",
+    "dev.beta.diftech.net",
+    "dev.co-beta.diftech.net",
+    "sandbox.platacard.mx",
+    "www-sandbox.platacard.mx",
+    "mock.beta.diftech.org",
+    "mock-api.beta.diftech.org"
+  ],
+  "direct": [
+    "prime.platacard.mx",
+    "prime.plata.co",
+    "example.beta.diftech.org",
+    "www.google.com",
+    "apple.com"
+  ]
+}
